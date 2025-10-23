@@ -88,20 +88,6 @@ The goal is to identify distinct customer groups based on **Annual Income** and 
 
 ---
 
-## 📸 Visualizations
-
-**Annual Income Distribution**  
-![Annual Income](images/annual_income.png)
-
-**Spending Score Distribution**  
-![Spending Score](images/spending_score.png)
-
-**Customer Clusters (2D Scatter Plot)**  
-![Clusters](images/clusters.png)
-
-> Replace the above placeholders with actual screenshots from your Colab notebook outputs.
-
----
 
 ## 🛠 How to Run
 
